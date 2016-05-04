@@ -1,5 +1,3 @@
 # test-github-desktop
-Doing different stuff to test a new repo/project using both GitHub desktop and command line.
+Doing different stufff to test a new GitHub repo.
 
-
-Another line added
