@@ -1,2 +1,2 @@
 # test-github-desktop
-I am a free-spirit
+Doing different stuff to test a new repo/project using both GitHub desktop and command line.
